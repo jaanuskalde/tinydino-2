@@ -1,0 +1,157 @@
+Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = R 02 mai   2014 01:01:11 EEST
+
+BeginCmp
+TimeStamp = /5362AD91;
+Reference = C1;
+ValeurCmp = 100n;
+IdModule  = 0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5362ACBD;
+Reference = C2;
+ValeurCmp = 100n;
+IdModule  = 0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5362AE35;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = 0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5362B454;
+Reference = IC1;
+ValeurCmp = ATMEGA88PA-MM;
+IdModule  = QFN28;
+EndCmp
+
+BeginCmp
+TimeStamp = /5362AE9B;
+Reference = P1;
+ValeurCmp = CONN_1;
+IdModule  = conn_1_0.65x1.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5362AE95;
+Reference = P2;
+ValeurCmp = CONN_1;
+IdModule  = conn_1_0.65x1.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5362AE8F;
+Reference = P3;
+ValeurCmp = CONN_1;
+IdModule  = conn_1_0.65x1.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5362AE78;
+Reference = P4;
+ValeurCmp = CONN_1;
+IdModule  = conn_1_0.65x1.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5362AEB3;
+Reference = P5;
+ValeurCmp = CONN_1;
+IdModule  = conn_1_0.65x1.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5362AEAD;
+Reference = P6;
+ValeurCmp = CONN_1;
+IdModule  = conn_1_0.65x1.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5362AEA7;
+Reference = P7;
+ValeurCmp = CONN_1;
+IdModule  = conn_1_0.65x1.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5362AEA1;
+Reference = P8;
+ValeurCmp = CONN_1;
+IdModule  = conn_1_0.65x1.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5362ACD1;
+Reference = P9;
+ValeurCmp = CONN_1;
+IdModule  = conn_1_0.65x1.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5362ACE0;
+Reference = P10;
+ValeurCmp = CONN_1;
+IdModule  = conn_1_0.65x1.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5362ACED;
+Reference = P11;
+ValeurCmp = CONN_1;
+IdModule  = conn_1_0.65x1.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5362ACF3;
+Reference = P12;
+ValeurCmp = CONN_1;
+IdModule  = conn_1_0.65x1.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5362ACF9;
+Reference = P13;
+ValeurCmp = CONN_1;
+IdModule  = conn_1_0.65x1.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5362C484;
+Reference = P14;
+ValeurCmp = CONN_4;
+IdModule  = conn_4;
+EndCmp
+
+BeginCmp
+TimeStamp = /5362C3C4;
+Reference = P15;
+ValeurCmp = CONN_4;
+IdModule  = conn_4;
+EndCmp
+
+BeginCmp
+TimeStamp = /5362AC9A;
+Reference = R1;
+ValeurCmp = 10k;
+IdModule  = 0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5362AE55;
+Reference = R2;
+ValeurCmp = 1k;
+IdModule  = 0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5362AD1F;
+Reference = X1;
+ValeurCmp = 8MHz;
+IdModule  = RESONATOR_3.2x1.3mm;
+EndCmp
+
+EndListe
