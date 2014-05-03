@@ -1,12 +1,13 @@
 tinydino-2
 ==========
 
-    Smallest Arduino clone possible to make!
+Smallest Arduino clone possible to make!
 
-              2014 Jaanus Kalde
-            jaanus.tech-thing.org
+2014 Jaanus Kalde
+jaanus.tech-thing.org
 
-               *** FEATURES ***
+FEATURES
+--------
 
    * Arduino compatible
    * Smallest size possible (7.4mm x 7.4mm)
@@ -17,16 +18,17 @@ tinydino-2
    * 1 digital i/o
    * Now with wings! To ease with programming.
 
-        *** BOM (with farnell codes) ***
+BOM (with farnell codes)
+------------------------
 
-          QFN28 atmega88 - 1748530
-          8MHz resonator - 1615352
-               10k 0603 resistor
-                1k 0603 resistor
-                   0603 red led
-             100nF 0603 capacitor
+    QFN28 atmega88 - 1748530
+    8MHz resonator - 1615352
+    10k 0603 resistor
+    1k 0603 resistor
+    0603 red led
+    100nF 0603 capacitor
 
 
-              Its free - share!
+Its free - share!
 
 http://creativecommons.org/licenses/by-nc-sa/3.0/
